@@ -1,0 +1,186 @@
+[
+    {
+        "name": "FabGreen Technologies",
+        "date": "2023-10-01",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c572'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_3":ObjectId('65de5ff5a8559b17c665c575'),
+                "result": "not-selected"
+            }
+        ]
+    },
+    {
+        "name": "Es Magico",
+        "date": "2023-10-03",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c572'),
+                "result": "selected"
+            }
+        ]
+    },
+    {
+        "name": "Devtestingtesting",
+        "date": "2023-10-05",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c572'),
+                "result": "selected"
+            },
+            {
+                "user_id_3":ObjectId('65de5ff5a8559b17c665c574'),
+                "result": "not-selected"
+            }
+        ]
+    },
+    {
+        "name": "Metricoid Technology Solutions",
+        "date": "2023-10-07",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c574'),
+                "result": "selected"
+            }
+        ]
+    },
+    {
+        "name": "Datalligence",
+        "date": "2023-10-10",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c574'),
+                "result": "not-selected"
+            }
+        ]
+    },
+    {
+        "name": "AdroitIQ",
+        "date": "2023-10-13",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c574'),
+                "result": "selected"
+            }
+        ]
+    },
+    {
+        "name": "zoho",
+        "date": "2023-10-16",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c573'),
+                "result": "selected"
+            }
+        ]
+    },
+    {
+        "name": "TCS",
+        "date": "2023-10-20",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c573'),
+                "result": "selected"
+            }
+        ]
+    },
+    {
+        "name": "Infosys",
+        "date": "2023-10-23",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c573'),
+                "result": "not-selected"
+            }
+        ]
+    },
+    {
+        "name": "HCL",
+        "date": "2023-10-26",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c571'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c573'),
+                "result": "selected"
+            }
+        ]
+    },
+    {
+        "name": "amazon",
+        "date": "2023-10-27",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c572'),
+                "result": "selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c573'),
+                "result": "not-selected"
+            }
+        ]
+    },
+    {
+        "name": "Google",
+        "date": "2023-10-29",
+        "students_appeared": [
+            {
+                "user_id_1":ObjectId('65de5ff5a8559b17c665c572'),
+                "result": "not-selected"
+            },
+            {
+                "user_id_2":ObjectId('65de5ff5a8559b17c665c573'),
+                "result": "selected"
+            },
+            {
+                "user_id_3":ObjectId('65de5ff5a8559b17c665c574'),
+                "result": "selected"
+            },
+            {
+                "user_id_4":ObjectId('65de5ff5a8559b17c665c575'),
+                "result": "not-selected"
+            }
+        ]
+    }
+]

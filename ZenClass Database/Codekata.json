@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Input and Output",
+        "problems": 30,
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "sloved": 25
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "sloved": 10
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "sloved": 15
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "sloved": 28
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "sloved": 23
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Absolute Beginner",
+        "problems": 40,
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "sloved": 25
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "sloved": 30
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "sloved": 35
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "sloved": 28
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "sloved": 23
+            }
+        ]
+    }
+]

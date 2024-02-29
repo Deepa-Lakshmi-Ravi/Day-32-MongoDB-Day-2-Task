@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Introduction to Browser & web",
+        "date": "2023-09-30",
+        task_id:ObjectId('65de98efd553bec75911c9b4')
+    },
+    {
+        "name": "Request & Response cycle",
+        "date": "2023-10-06",
+        task_id:ObjectId('65de98efd553bec75911c9b5')
+    },
+    {
+        "name": "Functions",
+        "date": "2023-10-07",
+        task_id:ObjectId('65de98efd553bec75911c9b6')
+    },
+    {
+        "name": "ES5 vs ES6",
+        "date": "2023-10-14",
+        task_id:ObjectId('65de98efd553bec75911c9b7')
+    },
+    {
+        "name": "OOPs in JS",
+        "date": "2023-10-20",
+        task_id:ObjectId('65de98efd553bec75911c9b8')
+    },
+    {
+        "name": " Array Methods",
+        "date": "2023-10-27",
+        task_id:ObjectId('65de98efd553bec75911c9b9')
+    },
+    {
+        "name": "HTML",
+        "date": "2023-10-28",
+        task_id:ObjectId('65de98efd553bec75911c9ba')
+    },
+    {
+        "name": "HTML recap CSS",
+        "date": "2023-11-03",
+        task_id:ObjectId('65de98efd553bec75911c9bb')
+    },
+    {
+        "name": "CSS",
+        "date": "2023-10-04",
+        task_id:ObjectId('65de98efd553bec75911c9bc')
+    }
+]

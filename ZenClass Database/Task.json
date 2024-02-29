@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Activity 1",
+        "date": "2023-09-30",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 2",
+        "date": "2023-10-06",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 3",
+        "date": "2023-10-07",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 4",
+        "date": "2023-10-14",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 5",
+        "date": "2023-10-20",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 6",
+        "date": "2023-10-27",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "not submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 7",
+        "date": "2023-10-28",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 8",
+        "date": "2023-10-04",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "submitted"
+            }
+        ]
+    },
+    {
+        "name": "Activity 9",
+        "date": "2023-11-03",
+        "user_id": [
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c571'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c572'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c573'),
+                "status": "submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c574'),
+                "status": "not submitted"
+            },
+            {
+                "_id":ObjectId('65de5ff5a8559b17c665c575'),
+                "status": "not submitted"
+            }
+        ]
+    }
+]
